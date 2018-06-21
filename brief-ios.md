@@ -1,17 +1,17 @@
 
 # Serge Moskalenko. Brief info - iOS/Mac OS X - iPhone / iPad collaborations
+<br/>
+<br/>
+(Objective-C, Swift, C++)<br/>
 <br>
+Mob: **+380677629137** <br/>
+**skype:camopu-ympo** <br/>
 <br>
-(Objective-C, Swift, C++)<br>
-<br>
-Mob: **+380677629137** <br>
-**skype:camopu-ympo** <br>
-<br>
-**CV**<br>
+**CV**<br/>
 https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/serge-moskalenko-cv-as-dev.pdf
-<br><br>
+<br/><br/>
 ```
-Account on GitHub: <br>
+Account on GitHub: <br/>
 http://github.com/sergemoskalenko
 <br><br>
 LinkedIn<br>
