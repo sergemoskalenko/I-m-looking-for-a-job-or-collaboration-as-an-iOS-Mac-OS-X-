@@ -4,13 +4,13 @@
 <br/>
 (Objective-C, Swift, C++)<br/>
 <br>
-Mob: **+380677629137** <br/>
-**skype:camopu-ympo** <br/>
+Mob: +380677629137 <br/>
+skype:camopu-ympo <br/>
 <br>
-**CV**<br/>
+CV<br/>
 https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/serge-moskalenko-cv-as-dev.pdf
 <br/><br/>
-```
+
 Account on GitHub: <br/>
 http://github.com/sergemoskalenko
 <br><br>
@@ -23,4 +23,4 @@ http://camopu.rhorse.ru/ios-app-online.html
 CV online (russian):<br>
 http://camopu.rhorse.ru/resume.html
 <br><br>
-```
+
