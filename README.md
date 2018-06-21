@@ -1,5 +1,8 @@
 # I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-
 
+Brief<br>
+https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/brief-ios.md
+<br><br>
 I'm looking for a job or collaboration as an iOS / Mac OS X (Objective-C, Swift) developer with companies in Kiev, Ukraine or remote. <br>
 https://github.com/sergemoskalenko 
 <br>
