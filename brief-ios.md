@@ -1,8 +1,7 @@
-
 # Serge Moskalenko. Brief info - iOS/Mac OS X - iPhone / iPad collaborations
-<br/>
-<br/>
 (Objective-C, Swift, C++)<br/>
+https://goo.gl/axJ1v5
+<br>
 <br>
 Mob: +380677629137 <br/>
 skype:camopu-ympo <br/>
