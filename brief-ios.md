@@ -1,5 +1,5 @@
-# Serge Moskalenko. Brief info - iOS/Mac OS X - iPhone / iPad collaborations
-(Objective-C, Swift, C++)<br/>
+# Serge Moskalenko. Brief info - iOS / Android / Flutter development (Developing iOS / iPhone / iPad) collaborations
+(Objective-C, Swift, Dart, Kotlin, C++)<br/>
 https://goo.gl/axJ1v5
 <br>
 <br>
