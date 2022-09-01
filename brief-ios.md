@@ -16,10 +16,10 @@ http://github.com/sergemoskalenko
 LinkedIn<br>
 http://www.linkedin.com/in/sergemoskalenko
 <br><br>
-iOS applications online in your browser:<br>
+<!--iOS applications online in your browser:<br>
 http://camopu.rhorse.ru/ios-app-online.html
 <br><br>
 CV online (russian):<br>
 http://camopu.rhorse.ru/resume.html
-<br><br>
+<br><br -->
 
