@@ -3,12 +3,17 @@
 **Brief**<br>
 https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/brief-ios.md
 <br><br>
-I'm looking for a job or collaboration as an **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)** developer with companies in **Kiev, Ukraine** or remote. <br>
+I'm open to job opportunities or collaborations as an **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)**  developer, either with companies located in Kiev, Ukraine, or for remote positions. <br>
 https://github.com/sergemoskalenko 
 <br>
 https://www.linkedin.com/in/sergemoskalenko
 
-Ищу работу или сотрудничество с компаниями как **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)** разработчик в **Киев, Украина**. <br>
+Ищу работу или сотрудничество с компаниями как **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)** разработчик в **Киев, Украина** или дистанционнно. <br>
+https://github.com/sergemoskalenko 
+<br>
+https://www.linkedin.com/in/sergemoskalenko
+
+Шукаю роботу або співпрацю з компаніями як розробник **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)**  в Києві, Україна, або дистанційно. <br>
 https://github.com/sergemoskalenko 
 <br>
 https://www.linkedin.com/in/sergemoskalenko
