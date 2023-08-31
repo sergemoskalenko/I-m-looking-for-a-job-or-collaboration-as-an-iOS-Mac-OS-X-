@@ -1,3 +1,5 @@
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergemoskalenko)
+
 # I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-
 
 **Brief**<br>
