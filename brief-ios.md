@@ -9,7 +9,6 @@ skype:camopu-ympo <br/>
 CV<br/>
 https://github.com/sergemoskalenko/files/blob/master/cv-as-dev.pdf
 <br/><br/>
-
 Account on GitHub: <br/>
 http://github.com/sergemoskalenko
 <br><br>
