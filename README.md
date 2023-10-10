@@ -21,7 +21,7 @@ https://github.com/sergemoskalenko
 https://www.linkedin.com/in/sergemoskalenko
 
 #iOS #Mac #OSX #Flutter #ObjectiveC #Swift #ObjC #cpp #dart #plainC #kiev #ukraine #job #lookingforajob
-
+<br><br>
 
 <img src=https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/image1-768747.jpg>
 
