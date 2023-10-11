@@ -30,3 +30,5 @@ https://www.linkedin.com/in/sergemoskalenko
 <img src=https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/image3-773720.jpg>
 
 <img src=https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/image4-775416.jpg>
+
+<br><br>
