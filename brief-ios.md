@@ -20,5 +20,7 @@ http://camopu.rhorse.ru/ios-app-online.html
 <br><br>
 CV online (russian):<br>
 http://camopu.rhorse.ru/resume.html
-<br><br -->
+<br><br 
+<br><br>
+-->
 
