@@ -41,7 +41,6 @@ http://camopu.rhorse.ru/resume.html
 
 <br><br 
 
-<br><br>
 
 -->
 
