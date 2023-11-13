@@ -7,7 +7,7 @@ Mob: +380677629137 <br/>
 skype:camopu-ympo <br/>
 <br>
 CV<br/>
-https://github.com/sergemoskalenko/files/blob/master/cv-as-dev.pdf
+https://github.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/blob/master/Serge-Moskalenko%E2%80%93CV-as-iOS-Android-Flutter-developer.pdf
 <br/><br/>
 Account on GitHub: <br/>
 http://github.com/sergemoskalenko
