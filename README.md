@@ -16,6 +16,9 @@ mob:+380677629137
 skype:camopu-ympo
 
 
+<hr>
+
+
 Ищу работу или сотрудничество с компаниями как **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)** разработчик в **Киев, Украина** или дистанционнно. <br>
 https://github.com/sergemoskalenko 
 <br>
