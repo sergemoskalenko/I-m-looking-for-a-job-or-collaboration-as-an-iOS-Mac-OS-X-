@@ -10,6 +10,12 @@ https://github.com/sergemoskalenko
 <br>
 https://www.linkedin.com/in/sergemoskalenko
 
+25 years of experience in software development,management & simple life. Friendly,calm,optimistic
+mob:+380677629137
+(The most reliable way to contact me is via Telegram using this number or at https://t.me/SergeMoskalenko)
+skype:camopu-ympo
+
+
 Ищу работу или сотрудничество с компаниями как **iOS / Mac OS X / Flutter (Objective-C, C++, Swift, Dart)** разработчик в **Киев, Украина** или дистанционнно. <br>
 https://github.com/sergemoskalenko 
 <br>
